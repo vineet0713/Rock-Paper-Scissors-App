@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  SelectionViewController.swift
 //  Rock Paper Scissors
 //
 //  Created by Vineet Joshi on 1/9/18.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class SelectionViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
