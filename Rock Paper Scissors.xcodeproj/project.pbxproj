@@ -14,6 +14,7 @@
 		65DB5268200587740057B9C9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65DB5266200587740057B9C9 /* LaunchScreen.storyboard */; };
 		65DB5273200587740057B9C9 /* Rock_Paper_ScissorsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65DB5272200587740057B9C9 /* Rock_Paper_ScissorsTests.swift */; };
 		65DB527E200587740057B9C9 /* Rock_Paper_ScissorsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65DB527D200587740057B9C9 /* Rock_Paper_ScissorsUITests.swift */; };
+		65DB528C20058E2B0057B9C9 /* ResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65DB528B20058E2B0057B9C9 /* ResultsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		65DB5279200587740057B9C9 /* Rock Paper ScissorsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Rock Paper ScissorsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		65DB527D200587740057B9C9 /* Rock_Paper_ScissorsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rock_Paper_ScissorsUITests.swift; sourceTree = "<group>"; };
 		65DB527F200587740057B9C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		65DB528B20058E2B0057B9C9 /* ResultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				65DB525D200587740057B9C9 /* AppDelegate.swift */,
 				65DB525F200587740057B9C9 /* SelectionViewController.swift */,
+				65DB528B20058E2B0057B9C9 /* ResultsViewController.swift */,
 				65DB5261200587740057B9C9 /* Main.storyboard */,
 				65DB5264200587740057B9C9 /* Assets.xcassets */,
 				65DB5266200587740057B9C9 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				65DB5260200587740057B9C9 /* SelectionViewController.swift in Sources */,
 				65DB525E200587740057B9C9 /* AppDelegate.swift in Sources */,
+				65DB528C20058E2B0057B9C9 /* ResultsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
